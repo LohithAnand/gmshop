@@ -1,0 +1,32 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 28, 2017, 7:31:03 PM
+    Author     : anand
+*/
+
+.main-container {
+    height: 100%;
+    width: 100%;
+}
+
+.gm-add-dropdown-button {
+    padding-bottom: 20px;
+}
+
+.handPointer {
+    cursor: pointer;
+}
+
+.editViewForm {
+    padding-left: 11%;
+    padding-right: 11%;
+}
+
+.loginForm {
+    padding-left: 25%;
+    padding-right: 25%;
+}
